@@ -1,1 +1,0 @@
-export const CHANGE_ADMIN_INFO = "admin/CHANGE_ADMIN_INFO"
